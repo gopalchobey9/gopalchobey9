@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm vikash rathour, student of gla univesity 👨‍ 🚀</div>  
+### <div align="center">I'm Gopal Chobey, student of gla univesity 👨‍ 🚀</div>  
   
 
 - 🔭 I’m currently pursuing B.tech in computer science. 
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/v-rathour" target="_blank">
+<a href="https://github.com/gopalchobey9" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 

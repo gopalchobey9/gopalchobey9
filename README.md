@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=v-rathour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gopalchobey9&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

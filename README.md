@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any project**
 
-- 💬 Ask me about **react ,node**
+- 💬 Ask me about **reactJs**
 
 - 📫 How to reach me **gopalchobey9@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **MERN Project**
 
 - 💬 Ask me about **reactJs**
 

@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working in **Namma Yatri**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs,ReactNative,TypeScript**
 
-- 👯 I’m looking to collaborate on **MERN Project**
+- 👯 I’m looking to collaborate on **App Development**
 
 - 💬 Ask me about **reactJs**
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalchobey9" alt="gopalchobey9" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter clone**
+- 🔭 I’m currently working in **Namma Yatri**
 
 - 🌱 I’m currently learning **NextJs**
 

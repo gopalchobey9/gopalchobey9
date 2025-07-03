@@ -28,6 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalchobey9&show_icons=true&locale=en&layout=compact" alt="gopalchobey9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalchobey9&show_icons=true&locale=en" alt="gopalchobey9" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalchobey9&show_icons=true&locale=en" alt="gopalchobey9" /></p>--->
+![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalchobey9&show_icons=true&theme=radical)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalchobey9&" alt="gopalchobey9" /></p>--->
